@@ -1,0 +1,6 @@
+numpy
+opencv_python
+streamlit
+tensorflow
+tensorflow_gpu
+tensorflow_intel
